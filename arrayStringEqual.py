@@ -9,6 +9,4 @@ class Solution:
 
         if wrd1 == wrd2:
             return True
-        else:
-            return False
-        
+        return False
